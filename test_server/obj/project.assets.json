@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\dev\\test_server\\test_server.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\dev2\\practiceGitHub\\test_server\\test_server.csproj",
       "projectName": "test_server",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\dev\\test_server\\test_server.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\dev2\\practiceGitHub\\test_server\\test_server.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\dev\\test_server\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\dev2\\practiceGitHub\\test_server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
