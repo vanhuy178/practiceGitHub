@@ -7,3 +7,6 @@ let two = 1;
 
 const sum = one + two;
 console.log(sum);
+
+// 10 interview js
+
